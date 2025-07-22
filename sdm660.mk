@@ -190,6 +190,7 @@ PRODUCT_PACKAGES += \
     libdisplayconfig \
     libdrmutils \
     libgralloc.qti \
+    libwfdservice_shim \
     vendor.display.config@1.0 \
     vendor.display.config@1.0.vendor \
     vendor.display.config@2.0 \
