@@ -211,8 +211,8 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.software.freeform_window_management.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.software.freeform_window_management.xml
 
 # Fstab
-PRODUCT_PACKAGES += \
-    fstab.qcom
+# PRODUCT_PACKAGES += \
+#     fstab.qcom
 
 # GMS
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
